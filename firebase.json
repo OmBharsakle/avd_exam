@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"avd-exam","appId":"1:845859826050:android:acce4c2c055e23c2a5079b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"avd-exam","configurations":{"android":"1:845859826050:android:acce4c2c055e23c2a5079b","ios":"1:845859826050:ios:e3f87ff2683b9e59a5079b"}}}}}}
